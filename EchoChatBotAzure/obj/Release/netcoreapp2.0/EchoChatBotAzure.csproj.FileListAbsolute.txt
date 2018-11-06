@@ -1,0 +1,13 @@
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\bin\Release\netcoreapp2.0\BotConfiguration.bot
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\bin\Release\netcoreapp2.0\EchoChatBotAzure.deps.json
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\bin\Release\netcoreapp2.0\EchoChatBotAzure.runtimeconfig.json
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\bin\Release\netcoreapp2.0\EchoChatBotAzure.runtimeconfig.dev.json
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\bin\Release\netcoreapp2.0\EchoChatBotAzure.dll
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\bin\Release\netcoreapp2.0\EchoChatBotAzure.pdb
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\obj\Release\netcoreapp2.0\EchoChatBotAzure.csprojAssemblyReference.cache
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\obj\Release\netcoreapp2.0\EchoChatBotAzure.csproj.CoreCompileInputs.cache
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\obj\Release\netcoreapp2.0\EchoChatBotAzure.AssemblyInfoInputs.cache
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\obj\Release\netcoreapp2.0\EchoChatBotAzure.AssemblyInfo.cs
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\obj\Release\netcoreapp2.0\EchoChatBotAzure.dll
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure\obj\Release\netcoreapp2.0\EchoChatBotAzure.pdb

@@ -1,0 +1,15 @@
+﻿{
+  "name": "EchoChatBotAzure",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "http://localhost:3978/api/messages",
+      "appId": "53d21dc9-364f-422c-835b-14b92aba877f",
+      "appPassword": "uKQE94[^buiyytFIJV975{*",
+      "id": "1"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}

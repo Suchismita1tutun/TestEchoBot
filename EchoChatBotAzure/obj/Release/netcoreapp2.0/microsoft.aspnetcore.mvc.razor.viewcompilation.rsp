@@ -1,0 +1,5 @@
+E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=EchoChatBotAzure
+--content-root=E:\project\projects\github\EchoChatBotAzure\EchoChatBotAzure
+--file=
